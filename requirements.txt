@@ -1,0 +1,4 @@
+flask
+nltk
+spacy
+google-cloud-translate
